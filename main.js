@@ -35,7 +35,6 @@ let boton =document.querySelector("button")
 
 boton.addEventListener("click", ()=> {
     alert(`Usted ingreso a "Organiza tu stock!"`)
-    alert("Bienvenido " + input)
     while(true){
         alert(`Que quieres hacer?
             1) Revisar Stock 
@@ -51,7 +50,7 @@ boton.addEventListener("click", ()=> {
         productos.splice(1, 1);
         alert("Listo!")
     }else if(menu == 4){
-        alert(`Gracias, vuelva pronto ` + nombre + "!")
+        alert(`Gracias, vuelva pronto`)
         break
     }else{
         alert("Ingresa una opción correcta")
