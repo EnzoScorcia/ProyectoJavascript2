@@ -11,11 +11,11 @@ let productos = []
 let boton =document.querySelector("button")
 
 
-let input =document.querySelector("input")
+// let input =document.querySelector("input")
 
-input.addEventListener("change", (e)=>{
+// input.addEventListener("change", (e)=>{
     
-})
+// })
 
 // productos.push(new Producto(prompt("Pon el nombre del producto"), Number(prompt("Pon el precio")), Number(prompt("Pon el N° de stock"))))
 // productos.push(new Producto(prompt("Pon el nombre del producto"), Number(prompt("Pon el precio")), Number(prompt("Pon el N° de stock"))))

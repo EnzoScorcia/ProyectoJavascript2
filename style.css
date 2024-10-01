@@ -1,16 +1,18 @@
 button{
-    width: 800px;
-    height: 800px;
+    width: 600px;
+    height: 600px;
     background-image: url(https://img.freepik.com/foto-gratis/galaxia-arte-digital_23-2151050671.jpg?size=626&ext=jpg);
     background-size: cover;
     cursor: pointer;
     font-size: 250px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
+    margin-left: 65vh;
 }
 
 .titulo{
-    font-size: 300px;
+    font-size: 250px;
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
 }
